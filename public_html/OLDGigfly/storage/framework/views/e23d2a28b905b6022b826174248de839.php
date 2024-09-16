@@ -1,0 +1,1 @@
+<script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script><?php /**PATH /home/u344139974/domains/gigfly.in/public_html/OLDGigfly/vendor/cloudinary-labs/cloudinary-laravel/resources/views/js.blade.php ENDPATH**/ ?>
